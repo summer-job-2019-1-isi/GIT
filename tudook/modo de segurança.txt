@@ -1,0 +1,32 @@
+qual a solução?
+*Garantir a segurança da informação na 
+Indústria
+
+pq usar essa solução?
+*Ninguém pensa que será invadido até que seja
+*Não existe política de segurança na automação
+*Não existe um caminho único. Há diversas medidas que devem 
+ser tomadas
+*Nem ssmpre a automação converge com a TI
+
+quais os riscos ?
+*Da automação não convergir com a TI na prática
+*Planejamento fraco que contribuem para o cenário de insegurança
+*A consciência do problema ainda não existir 
+
+
+quas os beneficios ?
+*Garantir integridade de dados
+ *Garantir sigilo industrial
+*Proteção das informações em ambientes virtuais 
+ 
+
+o que é a solução?
+*Definir adequadamente Políticas:fazendo proteção na planta 
+criando perimetros de segurança 
+*Auditar mudanças
+*Monitorar serviços
+*Corrigir ameaças e Contingenciar falhas
+*fazer análise de riscos para identificar o 
+grau de atuação de bloqueios de acesso
+* achar pontos em comum automação e ti
